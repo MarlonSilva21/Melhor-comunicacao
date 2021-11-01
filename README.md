@@ -102,6 +102,32 @@ npm start
 mongod 
 ```
 
+## Routes
+
+**GET** - *List all phones*
+```
+/register/products-phones
+```
+
+**GET** - *Search for a specific phone*
+```
+/register/product-phone/:phoneId
+```
+**POST** - *Create product record*
+```
+/register/product-phone
+```
+
+**PUT** - *update product registration*
+```
+/register/product-phone/:phoneId
+```
+
+**DELETE** - *Delete product*
+```
+/register/product-phone/:phoneId
+```
+
 ##
 
 Made with ♥ by Marlon Silva :wave: [Get in touch!](https://www.linkedin.com/in/marlon-silva-43075a184/)
