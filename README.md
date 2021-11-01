@@ -97,7 +97,7 @@ npm install
 ```bash
 npm start 
 ```
-####On another terminal run the database
+#### On another terminal run the database
 ```bash
 mongod 
 ```
