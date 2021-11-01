@@ -128,6 +128,18 @@ mongod
 /register/product-phone/:phoneId
 ```
 
+## JSON for registration
+```
+{
+    "model": "Mi 11i",
+    "price": 4500,
+    "brand": "Xiaomi",
+    "startDate": " "
+    "endDate": "2021/10/31",
+    "color": "white"
+}
+```
+
 ## presentation video
 ```
 https://youtu.be/VqM4c81_ae8
